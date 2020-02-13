@@ -140,8 +140,6 @@ function articleCreator(passedObject){
   article.appendChild(pag3);
   article.appendChild(expandButton);
 
-  console.log("here");
-
   article.classList.add('article');
   date.classList.add('date');
   expandButton.classList.add('expandButton');
